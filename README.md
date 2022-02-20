@@ -5,7 +5,7 @@ npm i socket-io
 ```
 
 ## ROOMS
-https://socket.io/docs/v3/rooms/
+https://socket.io/docs/v4/rooms/
 
 ## MIDDLEWARE
 https://socket.io/docs/v4/middlewares/
