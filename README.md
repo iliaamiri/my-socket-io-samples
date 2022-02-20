@@ -7,6 +7,9 @@ npm i socket-io
 ## ROOMS
 https://socket.io/docs/v3/rooms/
 
+## MIDDLEWARE
+https://socket.io/docs/v4/middlewares/
+
 ## CHAT SAMPLE
 https://socket.io/get-started/chat
 
